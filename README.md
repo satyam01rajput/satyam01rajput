@@ -1,5 +1,89 @@
-<h1 align="center">Hi 👋, I'm Satyam Rajput</h1>
-<h3 align="center">A passionate frontend developer from India .</h3>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .overlapping {
+            position: absolute;
+            top: 10px;
+        }
+
+
+        .nav div {
+            display: inline;
+            margin: 10px;
+            margin-left: 30px;
+
+        }
+
+
+        .searchbox {
+            height: 40px;
+            width: 500px;
+            border-radius: 25px;
+            text-align: center;
+            font-size: 15px;
+            margin-left: 400px;
+            margin-top: 150px;
+            color: black;
+            text-shadow: 0px 0px 2px black;
+            box-shadow: 0px 0px 3px 4px rgb(62, 61, 61);
+
+
+         
+        }
+        .searchbox:hover{
+            transition: 1s;
+            transform: scale(1.2);
+        }
+
+        h4{
+           margin-left: 150px;
+            font-size: 60px;
+            text-shadow: 8px 0px 8px white;
+            
+        }
+
+        .text{
+          
+             color: rgb(0, 0, 0);
+            margin-top: 200px;
+            font-size: 20px;
+            text-align: center;
+            margin-left: 150px;
+            text-shadow: 0px 0px 2px black;
+            cursor: pointer;
+
+          
+          
+        }
+    </style>
+</head>
+
+<body>
+    <div style="position: fixed;"><video src="Videos/production_id_4878910 (2160p).mp4" loop autoplay muted
+            height="100%" width="100%"> </video></div>
+
+
+
+    <div class="overlapping">
+        <h4 align="center">Hi 👋, I'm Satyam Rajput</h4>
+        <div><input class="searchbox" type="text" name="searchbox" value="" placeholder="Welcome to my GIT-Hub"
+                autofocus>
+             
+                <div class="text"> <h3 align="center"> " A passionate frontend developer from India ."</h3>
+                </div>   
+                
+        </div>
+    </div>
+
+
+
+</body>
+
+</html>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam01rajput&label=Profile%20views&color=0e75b6&style=flat" alt="satyam01rajput" /> </p>
 
