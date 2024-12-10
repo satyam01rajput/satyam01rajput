@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam01rajput&label=Profile%20views&color=0e75b6&style=flat" alt="satyam01rajput" /> </p>
 
-- 🌱 I’m currently learning **JAVASCRIPT , DSA**
+- 🌱 I’m Software Engineer
 
 - ⚡ Fun fact **I'm Funny 😅**
 
